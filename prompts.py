@@ -1,7 +1,7 @@
 # prompts.py
 
 # Define the prompts
-OPENAI_API_KEY = "sk-proj-D8cDwYGshUI9e4Qp7f4sT3BlbkFJIA67ZqaOxnvQ0Pc8hZT8"
+OPENAI_API_KEY = "INSERT KEY"
 
 SYSTEM_PROMPT = {
     "role": "system",
